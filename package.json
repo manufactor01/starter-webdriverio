@@ -34,7 +34,7 @@
     "@wdio/cli": "^7.9.0",
     "allure-commandline": "^2.13.8",
     "auto-changelog": "^2.3.0",
-    "chromedriver": "^96.0.0",
+    "chromedriver": "^101.0.0",
     "expect-webdriverio": "^3.1.0",
     "faker": "^5.5.3",
     "rimraf": "^3.0.2",
