@@ -63,8 +63,8 @@ export const config: WebdriverIO.Config = {
         app: './app/Android-NativeDemoApp-0.4.0.apk',
         appPackage: 'com.wdiodemoapp',  // Package name of your app
         appActivity: 'com.wdiodemoapp.SplashActivity', // App activity of the app
-        platformVersion: '8.1',
-        deviceName: 'ZY3263JLM5',
+        platformVersion: '7.1.1',
+        deviceName: 'LGM7007c7e4c0',
         automationName: 'UiAutomator2',
         autoGrantPermissions: false,
         gpsEnabled: true,
