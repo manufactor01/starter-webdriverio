@@ -1,7 +1,7 @@
 import { Given, Then, When } from '@cucumber/cucumber';
-import LoginPage from '../../pages/web/login.page';
-import Page from '../../pages/web/page';
-import SecurePage from '../../pages/web/secure.page';
+import LoginPage from '../pages/login.page';
+import Page from '../pages/page';
+import SecurePage from '../pages/secure.page';
 
 
 const pages: { [key: string]: Page } = { ["login"]: LoginPage };
